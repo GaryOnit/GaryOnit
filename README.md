@@ -1,8 +1,8 @@
 ## Welcome Aboard 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=32CD32&center=true&pause=100000&lines=GaryOnit+%7C+AI+Full-Stack+Enthusiast" alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=32CD32&center=true&vCenter=true&width=780&pause=100000&lines=Building+the+web+with+love+%26+code+%7C+Noob+Looking+For+Internship.+%7C+Third-year+CS+undergraduate." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&color=32CD32&center=true&pause=100000&lines=GaryOnit+%7C+AI+Full-Stack+Enthusiast" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&color=32CD32&center=true&vCenter=true&width=1000&pause=100000&lines=Building+the+web+with+love+%26+code+%7C+Noob+Looking+For+Internship.+%7C+Third-year+CS+undergraduate." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>I am open to internship opportunities in any interesting direction.</strong>
