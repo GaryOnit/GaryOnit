@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=500&color=D4A373&background=FFFFFF00&center=false&vCenter=true&multiline=false&random=false&width=600&height=45&lines=Hi%2C+I+am+GaryOnit+Full-Stack+Developer.)
+
 <!--
 **GaryOnit/GaryOnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
