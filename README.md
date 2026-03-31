@@ -1,11 +1,18 @@
 ## Welcome Aboard 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=500&color=32CD32&background=FFFFFF00&center=true&vCenter=true&width=1000&height=50&lines=GaryOnit+%7C+AI+Full-Stack+Enthusiast&repeat=false)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3500&pause=800&color=32CD32&background=FFFFFF00&center=true&vCenter=true&width=1000&height=40&lines=Building+the+web+with+love+%26+code+%7C+Noob+Looking+For+Internship.+%7C+Third-year+CS+undergraduate&repeat=false)
-
-                                                                  `🌱 Born 0056-3-15 ` `📍 Across China / Remote.`
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=32CD32&center=true&pause=100000&lines=GaryOnit+%7C+AI+Full-Stack+Enthusiast" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=32CD32&center=true&vCenter=true&width=780&pause=100000&lines=Building+the+web+with+love+%26+code+%7C+Noob+Looking+For+Internship.+%7C+Third-year+CS+undergraduate." alt="Current Role"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
+    <strong>I am open to internship opportunities in any interesting direction.</strong>
+  </p>
+  <p>
+    <code>🌱 Born 0056-3-15</code>
+    <code>📍 Across China / Remote.</code>
+  </p>
+</div>
+                           
 - 🔭 I’m currently working on making money.
 - 🌱 I’m currently learning full-stack technology system.
 - 👯 I’m looking to collaborate on kawaii and cute page.
