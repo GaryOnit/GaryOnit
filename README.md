@@ -1,8 +1,11 @@
 ## Welcome Aboard 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=800&color=32CD32&background=FFFFFF00&center=false&vCenter=true&multiline=false&random=false&width=600&height=45&lines=GaryOnit+%7C+AI+Full-Stack+Enthusiast)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=800&color=32CD32&background=FFFFFF00&center=false&vCenter=true&multiline=false&random=false&width=600&height=45&lines=Building+the+web+with+love+%26+code.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=800&color=32CD32&background=FFFFFF00&center=false&vCenter=true&multiline=false&random=false&width=600&height=45&lines=Noob+Looking+For+Internship.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=800&color=32CD32&background=FFFFFF00&center=true&vCenter=true&multiline=false&random=false&repeat=false&width=600&height=45&lines=GaryOnit+%7C+AI+Full-Stack+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=800&color=32CD32&background=FFFFFF00&center=false&vCenter=true&multiline=false&random=false&repeat=false&width=600&height=40&lines=Building+the+web+with+love+%26+code.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=800&color=32CD32&background=FFFFFF00&center=false&vCenter=true&multiline=false&random=false&repeat=false&width=600&height=40&lines=Noob+Looking+For+Internship.)
+
+
+
 <!--
 **GaryOnit/GaryOnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
